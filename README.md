@@ -20,3 +20,14 @@ write test
 bundle exec rspec
 'require_helper'
 `rails generate rspec:install`
+
+install devise
+
+```
+gem devise
+rails generate devise:install
+bundle exec rails g devise user
+bundle exec rails db:migrate db:test:prepare
+```
+
+`localhost:3000/users/sign_in` appears user form sign_in, sign_up, forgot your password
