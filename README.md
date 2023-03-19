@@ -6,3 +6,5 @@ bundle exec rails db:create
 nvim config/
 touch app/controllers/home_controller.rb
 ```
+
+rspec
