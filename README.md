@@ -34,3 +34,8 @@ bundle exec rails db:migrate db:test:prepare
 
 1. Make sign in form
    `$ rails generate devise:views`
+
+2. add navbar
+   `https://tailwindui.com/components/application-ui/navigation/navbars`
+
+`bin/dev` css and js rebuild
