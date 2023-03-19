@@ -39,3 +39,5 @@ bundle exec rails db:migrate db:test:prepare
    `https://tailwindui.com/components/application-ui/navigation/navbars`
 
 `bin/dev` css and js rebuild
+
+`touch app/views/layouts/_header.html.erb`
