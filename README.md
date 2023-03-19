@@ -40,4 +40,8 @@ bundle exec rails db:migrate db:test:prepare
 
 `bin/dev` css and js rebuild
 
-`touch app/views/layouts/_header.html.erb`
+`touch app/views/layouts/_header.html.erb `
+
+create stylesheet file
+change css - scss
+install sassc
