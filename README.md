@@ -31,3 +31,6 @@ bundle exec rails db:migrate db:test:prepare
 ```
 
 `localhost:3000/users/sign_in` appears user form sign_in, sign_up, forgot your password
+
+1. Make sign in form
+   `$ rails generate devise:views`
