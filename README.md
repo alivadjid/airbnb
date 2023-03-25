@@ -45,3 +45,8 @@ bundle exec rails db:migrate db:test:prepare
 create stylesheet file
 change css - scss
 install sassc
+
+colors to root
+update navbar style
+
+update manifest
