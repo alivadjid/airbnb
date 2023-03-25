@@ -1,4 +1,8 @@
-.header_navbar {
-  align-items: center;
+.nav_container {
   height: 80px;
+}
+
+.logo-link {
+  display: block;
+  color: var(--airbnb-logo);
 }
